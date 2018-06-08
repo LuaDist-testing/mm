@@ -1,17 +1,9 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "mm"
-version = "1.0.0-1"
--- LuaDist source
+version = "1.1.0-1"
 source = {
-  tag = "1.0.0-1",
-  url = "git://github.com/LuaDist-testing/mm.git"
+   url = "git://github.com/nenofite/mm",
+   tag = "v1.1.0"
 }
--- Original source
--- source = {
---    url = "git://github.com/nenofite/mm",
---    tag = "v1.0.0"
--- }
 description = {
    summary = "A delicious Lua inspector",
    detailed = [[
